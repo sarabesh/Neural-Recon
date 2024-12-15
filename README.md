@@ -5,6 +5,8 @@ This repository provides tools and scripts for processing the Natural Scenes Dat
 ![reconstruction results(results might differ on each run due to randomness in diffusion and VAE)](comparisions.png)
 Reconstruction results(results might differ on each run due to randomness in diffusion and VAE)
 
+- refer to the [report](neural-recon-report.pdf) for more details on the methods used.
+
 ---
 
 ## Prerequisites
