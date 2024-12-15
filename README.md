@@ -2,6 +2,9 @@
 
 This repository provides tools and scripts for processing the Natural Scenes Dataset (NSD), extracting features, training regression models, and reconstructing images using state-of-the-art deep learning models.
 
+![reconstruction results(results might differ on each run due to randomness in diffusion and VAE)](comparisions.png)
+Reconstruction results(results might differ on each run due to randomness in diffusion and VAE)
+
 ---
 
 ## Prerequisites
