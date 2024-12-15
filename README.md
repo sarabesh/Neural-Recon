@@ -1,4 +1,4 @@
-# Neural Image Reconstruction and Processing Pipeline
+# Neural Image Reconstruction - Image Reconstruction From Brain Activity Using Diffusion Methods
 
 This repository provides tools and scripts for processing the Natural Scenes Dataset (NSD), extracting features, training regression models, and reconstructing images using state-of-the-art deep learning models.
 
