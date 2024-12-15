@@ -1,0 +1,17 @@
+boto3
+numpy
+h5py
+scipy
+torch
+torchvision
+torchaudio
+scikit-learn
+ipython
+einops
+regex
+tqdm
+transformers
+opencv-python
+scikit-image
+matplotlib
+easydict
